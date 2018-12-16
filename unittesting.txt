@@ -1,0 +1,44 @@
+# running MochaML using the following command on 20181216
+# bash ./dataflow.sh github machine learning tensor
+# resulted in the following github projects downloaded with git clone
+# running 
+# ls -lh | grep "^d" | wc -l 
+# on this directory indicates # of directories downloaded
+# 26
+# would be ideal to rank the directories based on the number of entries or other 
+# evidence of activity and usefulness (i.e. page rank type search)
+# would be ideal to now explore these repositories to prepare 
+# for unit testing. Is there a way to specify unit testing and running
+# these in a more universal way? 
+#drwxr-xr-x  19 fvannberg6  staff   646B Dec 16 08:38 DALEX
+#-rw-r--r--   1 fvannberg6  staff   1.0K Nov 16 15:38 LICENSE
+#drwxr-xr-x   9 fvannberg6  staff   306B Dec 16 08:38 ML_course
+#drwxr-xr-x  17 fvannberg6  staff   578B Dec 16 08:37 Machine-Learning-Decal-Fall-2018
+#drwxr-xr-x  14 fvannberg6  staff   476B Dec 16 08:35 MachineLearningNotebooks
+#drwxr-xr-x  32 fvannberg6  staff   1.1K Nov 25 22:20 MochaML
+#drwxr-xr-x  13 fvannberg6  staff   442B Dec 16 08:39 Principles-of-Machine-Learning-R
+#-rw-r--r--   1 fvannberg6  staff   181B Dec 16 08:44 README
+#-rw-r--r--   1 fvannberg6  staff   202B Nov 16 15:38 README.md
+#drwxr-xr-x  12 fvannberg6  staff   408B Dec 16 08:35 Windows-Machine-Learning
+#drwxr-xr-x   7 fvannberg6  staff   238B Dec 16 08:35 awesome-machine-learning-interpretability
+#drwxr-xr-x  22 fvannberg6  staff   748B Dec 16 08:38 cuml
+#-rw-r--r--   1 fvannberg6  staff   566B Nov 16 15:38 dataflow.sh
+#drwxr-xr-x  15 fvannberg6  staff   510B Dec 16 08:39 fairness-comparison
+#-rw-r--r--   1 fvannberg6  staff    91K Dec 16 08:35 googler
+#drwxr-xr-x  10 fvannberg6  staff   340B Dec 16 08:38 graphpipe
+#drwxr-xr-x  28 fvannberg6  staff   952B Dec 16 08:38 kubeflow
+#drwxr-xr-x  36 fvannberg6  staff   1.2K Dec 16 08:35 machine
+#drwxr-xr-x   6 fvannberg6  staff   204B Dec 16 08:35 machine-learning
+#drwxr-xr-x   5 fvannberg6  staff   170B Dec 16 08:35 machine-learning-articles
+#drwxr-xr-x  34 fvannberg6  staff   1.1K Dec 16 08:35 machine_learning_examples
+#drwxr-xr-x  12 fvannberg6  staff   408B Dec 16 08:39 machine_learning_security
+#drwxr-xr-x  36 fvannberg6  staff   1.2K Dec 16 08:39 machinelearning
+#drwxr-xr-x  18 fvannberg6  staff   612B Dec 16 08:35 machines
+#drwxr-xr-x  20 fvannberg6  staff   680B Dec 16 08:35 ml-agents
+#drwxr-xr-x  20 fvannberg6  staff   680B Dec 16 08:37 ml5-library
+#drwxr-xr-x  25 fvannberg6  staff   850B Dec 16 08:36 please
+#drwxr-xr-x  10 fvannberg6  staff   340B Dec 16 08:37 practicalAI
+#drwxr-xr-x  20 fvannberg6  staff   680B Dec 16 08:35 stellargraph
+#drwxr-xr-x  19 fvannberg6  staff   646B Dec 16 08:37 teachable-machine
+#drwxr-xr-x  25 fvannberg6  staff   850B Dec 16 08:36 turicreate
+
