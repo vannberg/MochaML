@@ -41,4 +41,8 @@
 #drwxr-xr-x  20 fvannberg6  staff   680B Dec 16 08:35 stellargraph
 #drwxr-xr-x  19 fvannberg6  staff   646B Dec 16 08:37 teachable-machine
 #drwxr-xr-x  25 fvannberg6  staff   850B Dec 16 08:36 turicreate
+#
+# add additional projects using
+# bash ./dataflow.sh drug response gene github
+# evaluate CaDRRes and others get the code running
 
